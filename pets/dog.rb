@@ -1,6 +1,7 @@
 require('./pets/pet')
 require('./pets/person')
 
+# Author: Roman Schmidt, Daniel Osterholz
 class Dog < Pet
   public_class_method(:new)
 

@@ -1,5 +1,7 @@
 require('./pets/pet')
 require('./pets/cat')
+
+# Author: Roman Schmidt, Daniel Osterholz
 class Person
 
   def initialize(name)

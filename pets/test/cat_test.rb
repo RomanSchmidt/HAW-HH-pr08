@@ -1,6 +1,7 @@
 require('test/unit')
 require('./pets/cat')
 
+# Author: Roman Schmidt, Daniel Osterholz
 class CatTest < Test::Unit::TestCase
 
   # Called before every test method runs. Can be used

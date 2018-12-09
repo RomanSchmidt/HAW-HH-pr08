@@ -1,5 +1,6 @@
 require 'date'
 
+# Author: Roman Schmidt, Daniel Osterholz
 class Pet
   private_class_method(:new)
 
